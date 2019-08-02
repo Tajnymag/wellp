@@ -11,6 +11,6 @@
     "parcel": "^1.12.3"
   },
   "dependencies": {
-    "lodash-es": "^4.17.11"
+    "lodash-es": "^4.17.14"
   }
 }
